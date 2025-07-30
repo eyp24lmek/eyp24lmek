@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyup</h1>
 <h3 align="center">Exploring the intersection of hardware and software through mechatronics — with hands-on experience in C, Python, embedded systems, data science, and databases.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
